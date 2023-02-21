@@ -1,0 +1,21 @@
+{
+  "name": "testing_playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValeryCabreraRojas/Testing_Playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValeryCabreraRojas/Testing_Playwright/issues"
+  },
+  "homepage": "https://github.com/ValeryCabreraRojas/Testing_Playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.30.0"
+  }
+}
